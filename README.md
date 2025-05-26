@@ -19,5 +19,4 @@ SCSS (BEM architecture)
 Vanilla JavaScript
 
 Figma (UI design reference)
-
     - [DEMO LINK](https://oleksii-bieliaiev.github.io/bose_landing_page/)
